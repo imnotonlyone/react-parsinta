@@ -1,10 +1,10 @@
 import React from "react";
-import FormHandling from "./FormHandling";
+import FetchingApi from "./FetchingApi";
 
 export default function App() {
   return (
     <div className="App">
-      <FormHandling />
+      <FetchingApi />
     </div>
   );
 }
